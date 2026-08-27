@@ -1,0 +1,24 @@
+# Environment secrets
+.env
+
+# Python virtual environments
+binenv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Git
+.git/
+.gitignore
+
+# Generated data
+data/
+
+# Other unnecessary files
+README.md
